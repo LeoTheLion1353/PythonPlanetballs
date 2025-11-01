@@ -1,3 +1,7 @@
-As of October 6, 2025, these "games" are actually basically just Python drawings of ""stars"", so if you want to edit them and/or email me in any way, it is fine. These versions are, like it says, Alpha, and I may not be able to update much because school and work is so demanding, among other personal problems and YouTube channel related stuff, so if I don't update in a while, then don't worry, I am alive (hopefully) :)
+Hello there! This is the official GitHub download site to retrieve public versions of my Python game project, PythonPlanetball. 
 
-P.S. my email is georgea446@gmail.com
+If you want to edit my PythonPlanetball game files or contact me in any way, you must ask me for permission first. 
+
+These versions are, as the filenames indicate, Alpha versions. I may not be able to update them frequently because of school, personal matters, and my YouTube channel. If I don’t update in a while, don’t worry—I’m still around (hopefully)! :)
+
+© 2025 LeoTheLion. All rights reserved.
